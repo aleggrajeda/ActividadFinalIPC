@@ -1,0 +1,23 @@
+Algoritmo: Casos Seguros
+
+DATOS FINANCIEROS PARA EL CÁLCULO:
+1. Se fija un precio base al seguro de Q2,000 (en este caso)
+2. Se establecen las variables de recargos: Las cuales se fijan segun la edad del asegurado, edad del conyuge (si llegara a estar casado) y cantidad de hijos si el asegurado llegar a tenerlos. 
+
+RECOLECCIÓN DE DATOS PERSONALES:
+3. Se solicita al asegurado ingresar su nombre. 
+4. Se solicita al asegurado ingresar su edad.
+5. Se le pregunta al asegurado si está casado. 
+6. Sólamente SI el cliente está casado, se procede a comprobar la edad del cónyuge.
+7. Se convierte la edad del cliente a número. 
+8. Sólamente SI el cliente está casado, se convierte la edad del cónyuge a numero. 
+9. Se le pregunta al cliente si tiene hijos. 
+10. Sólamente SI el cliente tiene hijos, se procede a comprobar la cantidad de hijos que tiene.
+11. Sólamente SI el cliente tiene hijos, se procede a convertir la cantidad de hijos a número. 
+
+CALCULO DE RECARGOS:
+12. Se calcula el recargo por edad.
+13. Sólamente SI el cliente esta casado, se calcula el recargo por edad de cónyuge.
+14. Sólamente SI el cliente tiene hijos, se calcula el recargo por cantidad de hijos. 
+15. se determina el precio final según las condiciones que apliquen. 
+16. Se muestran los resultados al cliente del recargo total y precio final.

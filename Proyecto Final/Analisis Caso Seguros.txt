@@ -1,0 +1,9 @@
+Analisis de caso: Cotizaciones de seguro. 
+
+Lo que la empresa busca es incrementar la productividad del personal al no perder tiempo haciendo cotizaciones de forma manual, asi mismo, se busca llegar a clientes potenciales, descartando a aquellos que no aplican para un seguro según sus políticas.  
+
+Los obejetivos del software en resumen:
+1. Automatizar la forma de generar y brindar cotizaciones.
+2. Aumentar la productividad de los empleados.
+3. Aumentar las ventas al centrarse en los clientes que de verdad aplican. 
+
